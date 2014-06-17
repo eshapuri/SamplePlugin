@@ -127,7 +127,7 @@ public class HelloWorldBuilder extends Builder {
          * This human readable name is used in the configuration screen.
          */
         public String getDisplayName() {
-            return "Say hello world one two";
+            return "Say hello world";
         }
 
         @Override
